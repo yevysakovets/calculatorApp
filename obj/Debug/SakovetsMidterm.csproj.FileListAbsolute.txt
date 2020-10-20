@@ -7,3 +7,12 @@ C:\Users\zheny\source\repos\SakovetsMidterm\bin\Debug\SakovetsMidterm.pdb
 C:\Users\zheny\source\repos\SakovetsMidterm\obj\Debug\SakovetsMidterm.exe
 C:\Users\zheny\source\repos\SakovetsMidterm\obj\Debug\SakovetsMidterm.pdb
 C:\Users\zheny\source\repos\SakovetsMidterm\obj\Debug\SakovetsMidterm.csprojAssemblyReference.cache
+C:\Users\zheny\Documents\calculatorApp\bin\Debug\SakovetsMidterm.exe.config
+C:\Users\zheny\Documents\calculatorApp\bin\Debug\SakovetsMidterm.exe
+C:\Users\zheny\Documents\calculatorApp\bin\Debug\SakovetsMidterm.pdb
+C:\Users\zheny\Documents\calculatorApp\obj\Debug\SakovetsMidterm.csprojAssemblyReference.cache
+C:\Users\zheny\Documents\calculatorApp\obj\Debug\SakovetsMidterm.Form1.resources
+C:\Users\zheny\Documents\calculatorApp\obj\Debug\SakovetsMidterm.Properties.Resources.resources
+C:\Users\zheny\Documents\calculatorApp\obj\Debug\SakovetsMidterm.csproj.GenerateResource.cache
+C:\Users\zheny\Documents\calculatorApp\obj\Debug\SakovetsMidterm.exe
+C:\Users\zheny\Documents\calculatorApp\obj\Debug\SakovetsMidterm.pdb

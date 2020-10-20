@@ -26,12 +26,25 @@ namespace SakovetsMidterm
             txtDisplay.Focus(); //start program with focus on the textbox, ready for user input
         }
 
+        private void clearError() //clears error that doesn't go away after user sees it
+        {
+            if (lblError.Text != String.Empty) //check if there is an error message in the error label
+            {
+                lblError.Text = String.Empty; //if there is, erase it so user isn't stuck with error message
+            }
+            else
+            {
+                //this will only run if user keeps clicking something that will give him an error message, and it won't go away
+            }
+        }
+
         private void NumberClick(Button button)
         {
             if(txtDisplay.TextLength <= 14) //check to see if there is enough room left in the textbox before adding something into it
             {
                 txtDisplay.Text += button.Text; //takes the text property from a button and adds it into the txtDisplay textbox
             }
+            clearError();
         }
 
         private void btnOne_Click(object sender, EventArgs e)
